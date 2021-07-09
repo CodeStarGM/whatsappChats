@@ -1,0 +1,23 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.bg-wa-dark {
+  background-color: #075e54;
+}
+
+.bg-wa-top {
+  background-color: #054d44;
+}
+
+.circle {
+  background-color: #06d25d;
+}
+.pop-green {
+  color: #06d25d;
+}
+.msg {
+  color: #b1afaf;
+}
